@@ -1,2 +1,2 @@
-# effective-java-
+# effective-java-examples
 effective java
